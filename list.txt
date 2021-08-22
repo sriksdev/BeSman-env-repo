@@ -1,7 +1,7 @@
-Be-Secure/BeSman-env-repo/env1,0.0.1
-sriksdev/BeSman-env-repo/besecure-ce-django-dev,0.0.1
-sriksdev/BeSman-env-repo/besecure-ce-django-sec,0.0.1
-sriksdev/BeSman-env-repo/besecure-ce-spring-dev,0.0.1
-sriksdev/BeSman-env-repo/besecure-ce-spring-sec,0.0.1
+Be-Secure/besecure-ce-env-repo/env1,0.0.1
+sriksdev/besecure-ce-env-repo/besecure-ce-django-dev,0.0.1
+sriksdev/besecure-ce-env-repo/besecure-ce-django-sec,0.0.1
+sriksdev/besecure-ce-env-repo/besecure-ce-spring-dev,0.0.1
+sriksdev/besecure-ce-env-repo/besecure-ce-spring-sec,0.0.1
 
 
